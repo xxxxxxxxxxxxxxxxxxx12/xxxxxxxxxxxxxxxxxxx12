@@ -1,6 +1,6 @@
-# Welcome to My Data Science Portfolio! 👋
+# Who is Geoffery StJulien? 👋
 
-I'm Geoffery, a dedicated Data Analyst with a passion for transforming data into actionable insights. With a strong foundation in data analysis, reporting, and visualization, I thrive on turning complex datasets into clear, impactful narratives.
+I'm a aspiring Data Analyst with a passion for transforming data into actionable insights. With a strong foundation in data analysis, reporting, and visualization, I thrive on turning complex datasets into clear, impactful narratives.
 
 ## 🔍 About Me
 
@@ -17,7 +17,7 @@ I'm Geoffery, a dedicated Data Analyst with a passion for transforming data into
 - **Project Management Tools:** JIRA, Asana
 
 
-## 📚 Featured Portfolio
+## 📚 Portfolio
 
 Here are some of the [Projects](https://github.com/xxxxxxxxxxxxxxxxxxx12/Portfolio) I've worked on
 
@@ -28,7 +28,7 @@ I'm always eager to collaborate on exciting projects or discuss innovative ideas
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geofferystjulien/)
 - **Email:** [geoffery.email@example.com](mailto:stjuliengeoffery17@gmail.com)
 
-Looking forward to connecting with like-minded professionals and enthusiasts!
+
 
 <!--
 **xxxxxxxxxxxxxxxxxxx12/xxxxxxxxxxxxxxxxxxx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,7 +26,7 @@ Here are some of the [Projects](https://github.com/xxxxxxxxxxxxxxxxxxx12/Portfol
 I'm always eager to collaborate on exciting projects or discuss innovative ideas. Feel free to reach out:
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geofferystjulien/)
-- **Email:** [geoffery.email@example.com](mailto:stjuliengeoffery17@gmail.com)
+- **Email:** [stjuliengeoffery17@gmail.com](mailto:stjuliengeoffery17@gmail.com)
 
 
 

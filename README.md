@@ -16,24 +16,9 @@ I'm Geoffery, a dedicated Data Analyst with a passion for transforming data into
 - **Data Analysis & Reporting:** Google Sheets, Excel
 - **Project Management Tools:** JIRA, Asana
 
-## 📚 Featured Projects
+## 📚 Featured Portfolio
 
-Here are some of the projects I've worked on:
-
-1. **Cryptocurrency Market Analysis**
-   - *Description:* Developed predictive models to analyze market trends and inform investment strategies.
-   - *Tools Used:* Python, SQL, Tableau
-   - *Repository Link:* [Cryptocurrency Market Analysis](https://github.com/Geoffery/cryptocurrency-market-analysis)
-
-2. **Supply Chain Optimization**
-   - *Description:* Leveraged data analytics to enhance operational efficiency and reduce logistics costs.
-   - *Tools Used:* SQL, Excel, Tableau
-   - *Repository Link:* [Supply Chain Optimization](https://github.com/Geoffery/supply-chain-optimization)
-
-3. **Customer Segmentation Analysis**
-   - *Description:* Performed clustering analysis to identify distinct customer segments and tailored marketing strategies accordingly.
-   - *Tools Used:* Python, Google BigQuery, Looker Studio
-   - *Repository Link:* [Customer Segmentation Analysis](https://github.com/Geoffery/customer-segmentation-analysis)
+Here are some of the projects I've worked on
 
 ## 📝 Publications & Talks
 

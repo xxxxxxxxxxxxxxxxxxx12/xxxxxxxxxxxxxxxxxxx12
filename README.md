@@ -6,7 +6,7 @@ I'm Geoffery, a dedicated Data Analyst with a passion for transforming data into
 
 - 🎓 **Education:** Graduate Student at Virginia Commonwealth University, specializing in Supply Chain Management.
 - 💼 **Professional Experience:** Operations Manager at Amazon, overseeing logistics and operational efficiency.
-- 📊 **Interests:** Data Analytics, Project Management, AWS Cloud Solutions, Cryptocurrency, NFTs, and Global Trade Dynamics.
+- 📊 **Interests:** Data Analytics, Project Management, AWS Cloud Solutions, Cryptocurrency, NFTs, and Global Trade.
 
 ## 🛠️ Technical Skills
 
@@ -16,22 +16,17 @@ I'm Geoffery, a dedicated Data Analyst with a passion for transforming data into
 - **Data Analysis & Reporting:** Google Sheets, Excel
 - **Project Management Tools:** JIRA, Asana
 
+
 ## 📚 Featured Portfolio
 
-Here are some of the projects I've worked on
-
-## 📝 Publications & Talks
-
-- **Medium Articles:** Sharing insights on breaking into the analytics field and effective networking strategies. [Read my articles](https://medium.com/@Geoffery)
-- **Conference Presentations:** Speaker at various data science and analytics conferences.
+Here are some of the [Projects](https://github.com/xxxxxxxxxxxxxxxxxxx12/Portfolio) I've worked on
 
 ## 👋 Let's Connect
 
 I'm always eager to collaborate on exciting projects or discuss innovative ideas. Feel free to reach out:
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/Geoffery)
-- **Email:** [geoffery.email@example.com](mailto:geoffery.email@example.com)
-- **Upwork:** [Hire me](https://www.upwork.com/freelancers/~Geoffery)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geofferystjulien/)
+- **Email:** [geoffery.email@example.com](mailto:stjuliengeoffery17@gmail.com)
 
 Looking forward to connecting with like-minded professionals and enthusiasts!
 
